@@ -10,6 +10,12 @@
 * Thiago Volcati
 * Felipe Zillo
 
+## Como executar:
+
+1. Baixe os arquivos `index.html` e `btg.png`.
+2. Certifique-se de que ambos estão no mesmo diretório.
+3. Clique com o botão direito no `index.html` -> abrir como -> (navegador de sua escolha - recomenda-se Google Chrome).
+
 ## Relato
 
 Durante o processo de construção do design no Figma, criar cada componente individualmente não foi muito difícil. No entanto, surgiram algumas dificuldades ao aplicar o auto-layout e ao agrupar vários componentes em um só. O principal desafio foi entender em qual componente aplicar cada configuração de layout, pois, ao ajustar o layout incorreto, o espaçamento dos outros elementos acabava se desconfigurando completamente.
