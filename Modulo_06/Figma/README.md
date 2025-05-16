@@ -1,6 +1,8 @@
 # Atividade de UX: Figma
 
-* [Protótipo (Figma)](https://www.figma.com/proto/oBBbwsV6av2k2ck2TYxlWx/ponderada?node-id=0-1&t=rTAIziiAc8vg0O9A-1)
+* [Protótipo](https://www.figma.com/proto/oBBbwsV6av2k2ck2TYxlWx/ponderada?node-id=2-59&t=rTAIziiAc8vg0O9A-1)
+
+* [Figma](https://www.figma.com/design/oBBbwsV6av2k2ck2TYxlWx/ponderada?node-id=0-1&p=f&t=rTAIziiAc8vg0O9A-0)
 
 * [Dev Mode](https://www.figma.com/design/oBBbwsV6av2k2ck2TYxlWx/ponderada?node-id=0-1&m=dev&t=rTAIziiAc8vg0O9A-1)
 
