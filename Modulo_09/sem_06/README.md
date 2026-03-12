@@ -1,14 +1,5 @@
 # ASIS API — SDK de Integração Python
 
-> Fluxo completo de integração com autenticação JWT para auditoria fiscal de arquivos SPED.
-
-![SDK](https://img.shields.io/badge/SDK-v1.0.0-purple)
-![API](https://img.shields.io/badge/API-v1-blue)
-![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)
-![Testes](https://img.shields.io/badge/testes-35%20OK-green)
-
----
-
 ## Visão Geral
 
 A **ASIS API** (by Sankhya / Kolossus) é a interface programática da solução Kolossus para processar, auditar e extrair resultados de arquivos SPED. Este SDK implementa o fluxo completo de integração em Python, cobrindo:
